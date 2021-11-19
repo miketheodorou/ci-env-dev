@@ -1,4 +1,4 @@
 containers:
   test:
     name: test
-    tag: v0.6.0
+    tag: v0.7.0

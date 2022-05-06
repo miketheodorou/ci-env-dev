@@ -1,4 +1,4 @@
 containers:
   project:
     name: miketheodorou/ci-workflow-poc
-    tag: v0.10.0
+    tag: v0.11.0
